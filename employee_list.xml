@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<employees status = "Good">
+
+        <record id = "100">
+
+            <name>Ryan Gordon</name>
+
+            <position>Director</position>
+
+        </record>
+
+        <record id = "101">
+
+            <name>Kerone Smith</name>
+
+            <position>CEO</position>
+
+        </record>
+
+        <record id = "102">
+
+            <name>Shevone Bennett</name>
+
+            <position>Manager</position>
+
+        </record>
+
+        <record id = "103">
+
+            <name>Demali Forte</name>
+
+            <position>Chief Finance Manager</position>
+
+        </record>
+
+        <record id = "104">
+
+            <name>Shevone Bennett</name>
+
+            <position>Senior Networking Manager</position>
+
+        </record>
+
+         <record id = "105">
+
+            <name>Nina Rosemond</name>
+
+            <position>Marketing Manager</position>
+
+        </record>
+
+         <record id = "106">
+
+            <name>Kelly Ortiz</name>
+
+            <position>Purchasing Manager</position>
+
+        </record>
+
+        <record id = "107">
+
+            <name>Dolores Faulkner</name>
+
+            <position>Office Manager</position>
+
+        </record>
+
+        <record id = "108">
+
+            <name>Shanice Clark</name>
+
+            <position>Supervisor</position>
+
+        </record>
+
+        <record id = "109">
+
+            <name>Arlene Juarez</name>
+
+            <position>Accountant</position>
+
+        </record>
+
+        <record id = "110">
+
+            <name>Danielle Cooper</name>
+
+            <position>Secretary</position>
+
+        </record>
+
+</employees>

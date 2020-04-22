@@ -1,0 +1,20 @@
+............Admin Credentials...............
+
+Username/Email: admin
+Password: admin_763
+............................................
+
+						*N.B.* DO NOT ALTER/REMOVE FILES YOUR NOT SURE ABOUT. 
+						DOING THAT WILL RESULT IN ERRORS OR THE PROJECT NOT BEING RUNNING.
+
+
+............User Credentials................
+
+Username/Email: maddy_sam@gmail.com
+Password: maddy1
+
+
+Username/Email: tia_pearson@yahoo.com
+Password: tiapearson3
+...................................
+
